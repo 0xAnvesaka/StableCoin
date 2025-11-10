@@ -1,6 +1,6 @@
-# Foundry-Stablecoin (Indian Stable Coin Algorithmic)
+# Foundry-Stablecoin (Indian Stable Coin Algorithmically)
 
-Short one-liner: A Foundry-based educational stablecoin PoC + invariant/fuzz harness.
+A Foundry-based educational stablecoin + invariant/fuzz harness.
 
 ## Quick start
 1. Install Foundry: `curl -L https://foundry.paradigm.xyz | bash && foundryup`
